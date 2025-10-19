@@ -1,0 +1,1 @@
+Thisfront-end project is a Student Registration System that allows students to register using their name, email, student ID, contact number, and course.  It also displays the already registered students. 
